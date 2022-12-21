@@ -1,0 +1,23 @@
+{
+  "name": "learnsass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass scss:styles",
+    "watch": "npm run sass -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stilllee/LearnSass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stilllee/LearnSass/issues"
+  },
+  "homepage": "https://github.com/Stilllee/LearnSass#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
